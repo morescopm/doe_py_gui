@@ -20,6 +20,9 @@
 3. `python gui_doe.py`
 
 
+### Credit
+- doe generator built on https://github.com/tirthajyoti/doepy
+
 <br>
 
 ### _Per aedificium informatus ero._

@@ -13,7 +13,13 @@
         - Linear & Nonlinear Model Selection & Fit
         - Suggestions about path forward?
 
+## Usage
+
+1. Clone the repository.
+2. `conda env create -f environment.yml`
+3. `python gui_doe.py`
+
 
 <br>
 
-### Through building, I will become more informed.
+### _Per aedificium informatus ero._

@@ -6,10 +6,10 @@
 4. These existing DOE generators require knowledge of Python, and all of the struggle to get it configured
 5. There is a lot of value in a tool that allows point and click interface with:
     - Factor and value input
-    - Preview of design
-    - Statistics about design merit
-    - Compare design tools
-    - <b>optional</b>: 
+    - Preview of design & download
+    - Statistics about design merit (pending)
+    - Compare design tools (pending)
+    - <b>out of scope for now</b>: 
         - Linear & Nonlinear Model Selection & Fit
         - Suggestions about path forward?
 
